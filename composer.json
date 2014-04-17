@@ -21,7 +21,7 @@
   },
   "require-dev": {
     "nette/tester": "~1.",
-    "zeleznypa/nette-session-debug-bar": "dev-master",
-    "jandrabek/nette-mailpanel": "dev-master"
+    "zeleznypa/nette-session-debug-bar": "~0.3.1",
+    "jandrabek/nette-mailpanel": "~3.0.1"
   }
 } 
