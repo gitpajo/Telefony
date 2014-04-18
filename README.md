@@ -1,4 +1,4 @@
-[![GitHub version](https://badge.fury.io/gh/gitpajo%2Ftelefony.svg)](http://badge.fury.io/gh/gitpajo%2Ftelefony)
+[![GitHub version](https://badge.fury.io/gh/gitpajo%2FTelefony.svg)](http://badge.fury.io/gh/gitpajo%2FTelefony)
 
 Telefony
 ========
